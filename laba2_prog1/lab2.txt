@@ -1,0 +1,10 @@
+1. klasa studentsvector zawiera
+	1.1 Wektor obiektów Student zawiera następujące metody publiczne:
+	1.2 addStudent(Student s) - dodaje studenta do wektora
+	1.3 getStudent(int i) - zwraca studenta o indeksie i
+	1.4 getStudent(String pesel) - zwraca studenta o podanym peselu
+	1.5 getStudent(int index) - zwraca studenta o podanym indeksie
+	1.6 getNumStudents() - zwraca liczbę studentów w tablicy
+2. klasa StudentsVector posiada takie konstruktory:
+	2.1 StudentsVector() - tworzy pustą tablicę
+	2.2 StudentsVector(int size) - tworzy tablicę o podanym rozmiarze
