@@ -1,0 +1,3 @@
+Student: Name=Serhii,Surname=Hrushetskyi,Pesel=03292400000,Age=20,Index=276188
+Student: Name=Zhenia,Surname=Hurskiy,Pesel=99102700000,Age=24,Index=873488
+Employee:Name=Ludmila,Surname=Fedorenko,Pesel=65142800000,Age=58,Card_number=76584967856487983
