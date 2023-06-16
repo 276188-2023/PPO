@@ -36,7 +36,7 @@ Person* addStudent()
     cout << "Pesel: ";
     string pesel;
     cin >> pesel;
-    int err = s->setPesel(pesel); //Тут також якась срака, поправ!!!
+    int err = s->setPesel(pesel);
     if (err == 1)
     {
         return s;
@@ -115,7 +115,6 @@ int main()
                     case 2:
                     {
                         cout << "Number of students: " << people.getStudentCount() << endl;
-                        /*серий глян чому воно записує все і зроби щоб записувалося тік норм резултати*/
                         people.printAll();
                         break;
                     }
