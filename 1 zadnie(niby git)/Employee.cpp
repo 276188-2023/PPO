@@ -18,5 +18,5 @@ std::string Employee::getType()
 
 std::string Employee::toString()
 {
-    return "Employee:Name=" + getName() + ",Surname=" + getSurname() + ",Pesel=" +getPesel() + ",Age=" + std::to_string(getAge()) +  ",Card_number=" + getCardNumber();
+    return "Employee: Name=" + getName() + ",Surname=" + getSurname() + ",Pesel=" +getPesel() + ",Age=" + std::to_string(getAge()) +  ",Card_number=" + getCardNumber();
 }
